@@ -7,3 +7,5 @@ To set up project using the correct Python packages, run this command
 ```
 pip install -r requirements.txt
 ```
+
+The datasets are not provided directly in this repository.
